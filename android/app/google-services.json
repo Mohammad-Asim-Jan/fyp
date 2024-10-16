@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "217370084482",
+    "firebase_url": "https://my-fyp-df250-default-rtdb.firebaseio.com",
+    "project_id": "my-fyp-df250",
+    "storage_bucket": "my-fyp-df250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217370084482:android:fbbf45057ffd81e73f609b",
+        "android_client_info": {
+          "package_name": "com.example.sea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCksXah0VmrKVIJ5qJQwQ57yzd21tJAo4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
