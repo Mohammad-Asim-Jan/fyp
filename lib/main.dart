@@ -7,7 +7,6 @@ import 'package:sea/constants/colors.dart';
 import 'package:sea/constants/hide_snackbar.dart';
 import 'package:sea/firebase_options.dart';
 import 'package:sea/views/login/login_provider.dart';
-import 'package:sea/views/navigation.dart';
 import 'package:sea/views/signup/signup_provider.dart';
 import 'package:sea/views/splash_screen/splash_screen.dart';
 
